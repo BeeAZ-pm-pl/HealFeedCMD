@@ -1,2 +1,8 @@
-# HealFeedCMD
-HEAL AND FEED FAST POCKETMINE-MP
+#⭐ COMMAND
+ • /heal
+ • /feed
+#⭐ FEATURE
+ • Custom Message In Config
+#⭐ PERMISSION
+ • heal.command
+ • feed.command
