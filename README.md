@@ -1,4 +1,4 @@
-# ⭐ COMMAND
+# ⭐ Command
 
 <br>
 
@@ -6,12 +6,12 @@
 <br>
 • /feed
 
-# ⭐ FEATURE
+# ⭐ Feature
 
 <br>
 • Custom Message In Config
 
-# ⭐ PERMISSION
+# ⭐ Permission
 
 <br>
 • heal.command
