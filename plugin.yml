@@ -1,0 +1,17 @@
+name: HealFeedCMD
+main: BeeAZZ\HealFeedCMD\Main
+api: 4.0.0
+version: 0.1
+author: BeeAZZ
+commands:
+  heal:
+    description: "Healing"
+    permission: heal.command
+  feed:
+    description: "Food Recovery"
+    permission: feed.command
+permissions:
+ heal.command:
+  default: op
+ feed.command:
+  default: op

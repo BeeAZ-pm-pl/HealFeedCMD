@@ -1,0 +1,6 @@
+#CUSTOM MESSAGES
+HEALMESSAGE: "HEAL SUCCESS"
+FEEDMESSAGE: "FEED SUCCESS"
+#Permision Command
+#heal.command
+#feed.command
