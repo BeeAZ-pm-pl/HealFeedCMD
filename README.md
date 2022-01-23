@@ -1,8 +1,8 @@
-#⭐ COMMAND
+#⭐COMMAND
  • /heal
  • /feed
-#⭐ FEATURE
+#⭐FEATURE
  • Custom Message In Config
-#⭐ PERMISSION
+#⭐PERMISSION
  • heal.command
  • feed.command
