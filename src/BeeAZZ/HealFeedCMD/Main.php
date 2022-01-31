@@ -17,13 +17,13 @@ class Main extends PluginBase implements Listener{
 
    public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args) : bool{
    if($sender instanceof Player){
-   if($sender->hasPermission("heal.command")){
+   if($sender->hasPermission("healfeedcmd.command.heal")){
    if($cmd->getName() == "heal"){
    $sender->setHealth($sender->getMaxHealth());
    $sender->sendMessage($this->getConfig()->get("HEALMESSAGE"));
                 }
             }
-   if($sender->hasPermission("feed.command")){
+   if($sender->hasPermission("healfeedcmd.command.feed")){
    if($cmd->getName() == "feed"){
    $sender->getHungerManager()->setFood(20);
    $sender->getHungerManager()->setSaturation(20);
