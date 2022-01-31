@@ -6,14 +6,14 @@
 <br>
 • /feed
 
-# ⭐ Feature
+# ⭐ General
 
 <br>
-• Custom Message In Config
+• A Custom Heal And Heal plugin
 
 # ⭐ Permission
 
 <br>
-• heal.command
+• healfeedcmd.command.heal
 <br>
-• feed.command
+• healfeedcmd.command.feed
